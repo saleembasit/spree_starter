@@ -715,7 +715,7 @@ DEPENDENCIES
   spree_frontend (~> 4.2.5)
   spree_gateway
   spree_i18n (>= 5.0)
-  spree_sample (~> 44.2.5)
+  spree_sample (~> 4.2.5)
   spring
   stackprof
   uglifier
