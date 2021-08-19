@@ -576,10 +576,6 @@ GEM
       sqlite3
       timecop
       webdrivers (~> 4.3)
-    spree_emails (4.2.5)
-      actionmailer
-      spree_core (>= 4.2.5)
-      sprockets (>= 4.0)
     spree_extension (0.0.9)
       activerecord (>= 4.2)
       spree_core
