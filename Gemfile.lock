@@ -707,7 +707,6 @@ DEPENDENCIES
   spree_auth_devise
   spree_backend (~> 4.2.5)
   spree_dev_tools
-  spree_emails (~> 4.2.5)
   spree_frontend (~> 4.2.5)
   spree_gateway
   spree_i18n (>= 5.0)
